@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-RandomMaze.app/* linguist-vendored
-test.app/* linguist-vendored
+RandomMaze.app/Contents/* linguist-vendored
+test.app/Contents/* linguist-vendored
